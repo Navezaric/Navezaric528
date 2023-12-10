@@ -1,0 +1,26 @@
+{
+  "name": "Maud Park",
+  "age": 32,
+  "address": {
+    "street": "Ovewak Turnpike",
+    "city": "Kaukota",
+    "state": "FL",
+    "zip": "92161"
+  },
+  "contact": {
+    "phone": "(981) 943-5705",
+    "servicePhone": "800525829"
+  },
+  "birthday": "2000-06-14T00:25:54.816Z",
+  "ip": "29.179.203.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Adko kukralmo la ek ebe du po kavov gad zefmibe goz kic zenmufaji. Sa pibgod ojo givwibseg iztim iv caw nuvalem kaf wezkicrar opireel nabme isren izru. Bu fetcina naljika guga ope sa poztimeb utabiri nobif urinumew vejnep wi iswa fito kukzigu hugho aljukpup deutamel.",
+    "bio": "Is zo boz kishotiw ewo suw cop da nus biwobew fikar mif gocu udrawle. Livveb juc gavuvaj jo wimu azonugpag zucsallo ke ilihe heir efe esiteoji. Boneki hudbeh gunafik kukam du armab fozguz alovuemi zudcize gicah wo toetmos lu re."
+  },
+  "apiKey": "4576c2526f572c95db72e3b5535ea634a266ccf2d7f3d2c56cf71b94a0f55d9b",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
