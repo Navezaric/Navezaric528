@@ -1,0 +1,26 @@
+{
+  "name": "Fred Zimmerman",
+  "age": 26,
+  "address": {
+    "street": "Ripra Turnpike",
+    "city": "Diccugowo",
+    "state": "VT",
+    "zip": "93702"
+  },
+  "contact": {
+    "phone": "(648) 524-7025",
+    "servicePhone": "800615923"
+  },
+  "birthday": "1965-09-11T03:56:01.248Z",
+  "ip": "137.165.26.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Tunmaog poggi ubsep bovah jivijep lifejka ep tile opi basfezen fuh fonodjaf. Gepnecuse zited coh gokuluw umonemtu tiovima juzzed jal sicu hadwa ca nikoj eziru pacasbu rudamlet hajwetbi bifinur epacuz. Ow lotih hejlijam ocila low evvu jos doho je jed towabew dol jip oseeti zoz fufurwir paesi. Uwutavat regujo maidkoz im voghecok hu rub vu nelpittav labme nawe bafdioto ba mevvirac at pat. Ninic wuegedar da azeko su puofuza ut tinevum tov esubeb har liofho luv maelaho warlil tamupmi bedzufawo nokuh. Aw ca un tiof pe cu hah jison hetseiwa nebpa toz uha anem jijfehi zadwof neszosa.",
+    "bio": "Wamarawa nirwegva ivuvapaz umec uletah dozohmum cofu tapole jakilogo jegifce ahajuk omuwibeh banjikhi weturid. Bu dajob mohsed hi cevfowapi ecve sifalvo koes kubappa recmubo latuv joaj onuwar. Nelfahe weponam pawe ojipejnig acjod tittemsuh wote ra urkuw owejiz kimvaned junat latenso hejot gupusehop migkele jupi avab."
+  },
+  "apiKey": "95498a5328fc22d96b5972aa1d775dd998bc5fe8058183d0959550e307f1b20e",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
