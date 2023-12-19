@@ -1,0 +1,26 @@
+{
+  "name": "Billy Reed",
+  "age": 45,
+  "address": {
+    "street": "Wepus Trail",
+    "city": "Bumobu",
+    "state": "WI",
+    "zip": "55406"
+  },
+  "contact": {
+    "phone": "(704) 600-8451",
+    "servicePhone": "800461178"
+  },
+  "birthday": "1960-12-19T19:20:47.307Z",
+  "ip": "56.17.113.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka edude hujifju guh reriri lut das utadaf epafu weat ke motemuz fuzuw. Hojeb kuuz nukgacji berez kak ojoojwe jupi oksepis dushil bu he hapki mi dej alire puldehe. Maozi irofukal remraw vamoklot cibnimo pes urairew cavop langetad pidezin lopodsi fa wado wadgogo. Za sajwe nustiuk umagetu avuosa ka lul segjo canposneh detaih iksavit oteeh col timaz ha von. Han ron uhe pitmo fami rodev wocuhi cifi buc cunub wesgosu hevu hoj garifap cuzap reoze ot bilporel. Fivu wi mu tolarha uvifuzjop heana zedmuk hejleg larizuh dir soba duzew biz. Pi roc hochol bopdutko jomiak rarvo najatgi wizbaw bo juinimu mecibte vejso omu kar jefikri.",
+    "bio": "Fivrehwe bo danla rila fog naeki vap hivubob minaj refuj neijna ojmup tolbibhe ofoiduhic zasad dijsafow. Boapo cowev lewsov sebuka gu bine lossec il fo hakanmu lovep uzucahavi. Opialgal fehji pibmim li jed nav orawucre ukro vi halvogipo modleuf sobzo mivsawiz."
+  },
+  "apiKey": "bc01ec018e732d456335f22b9b0d72a9cd051380056c4fbbc79f7295a8f30f08",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
