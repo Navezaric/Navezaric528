@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Day",
+  "age": 38,
+  "address": {
+    "street": "Rezum River",
+    "city": "Zepichip",
+    "state": "LA",
+    "zip": "93581"
+  },
+  "contact": {
+    "phone": "(513) 927-9491",
+    "servicePhone": "800474121"
+  },
+  "birthday": "1989-09-23T07:43:31.328Z",
+  "ip": "8.177.33.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Judat mibti divid hedor mile lerdu ihpar feg vugob heppaji nuome ju evahab wiucroj cemhera kebpipbi. Vijaro isuger unezedi rusho huzepem kogejenon ibowepji iti mu ji vejagbu woronlep jip ef huvoapa ilijikdon je duoliwas. Uj ra rormumag zofze rov peviava towfumi resnane loak ihsak doznuik ew fo vauvavoj ritumhe necwo lod.",
+    "bio": "Gu wemjam hid ifze kaj ca babido ja pouro del votiz uv ifrek merfot. Fajwedkep vi sac udimo ru giweku kucirha fejdeza jetuwni dus ekivukha ilmoswa hejaf tiowanum ucewaza. Liemri bez lik bedem hiwul nikawe ko se vezatced iluziz wuf tegane vagioj beabi mes."
+  },
+  "apiKey": "44ece70e6c35f143b5ffc1015a0a3a02b27bdaca174e93f90675e938478f8081",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
