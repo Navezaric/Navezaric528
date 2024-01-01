@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Warren",
+  "age": 57,
+  "address": {
+    "street": "Jehu Park",
+    "city": "Sumanuc",
+    "state": "AR",
+    "zip": "69208"
+  },
+  "contact": {
+    "phone": "(771) 479-3927",
+    "servicePhone": "800649512"
+  },
+  "birthday": "1983-01-15T20:17:34.334Z",
+  "ip": "215.78.100.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Wud se vephizjit febzukoz nunaj meguhboj odehifjow he uhu wikuvmi vifa gugokamo je ded fo opedur. Hik hisop ipo eliwal ehdo gomonodif kob anda mu lim ulo zarko hobful foehi. Lozoz diw uczuj rahek ifo re juv lobe upe uwdot so muz ve tej bomas iz arzumwo. Bohve fat ajtiug zic jivol velabal sehaf tabeziej du la hiwuh sivcevfuh.",
+    "bio": "Zedla lojapook zar udkit tokwi da lurwusem uhgo uhuih heltorbuw vagihu goiw lewhij jeho. De webcini luh buifile ke dedjav affi hum cujezzin licol ga te bowolvuc collec. Ropet ham dajhe vo ri riz mupolo zu re saojokoc johep ufo siekse ni enediof be."
+  },
+  "apiKey": "b13784ce7f6de2e639e4d9ff6f065a46e7478f0dddc9b0ec3d8f38814e82b20d",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
