@@ -1,0 +1,26 @@
+{
+  "name": "Craig Rios",
+  "age": 32,
+  "address": {
+    "street": "Apaje Circle",
+    "city": "Vefmoaho",
+    "state": "AZ",
+    "zip": "36479"
+  },
+  "contact": {
+    "phone": "(642) 342-5396",
+    "servicePhone": "800746698"
+  },
+  "birthday": "2000-03-12T09:53:05.800Z",
+  "ip": "206.164.150.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Beeraleb esemido guzazjut pibzo rouci ezfola gu vesnuddej ikeufwa falpeg wobojer mi si veruus wobi seka vo. Sabviwe jozmurud kahsicovu zun te fevlaewi kiserum sa tonir loh gov ficak jejsi. Mi uwi toaz se lap iktin pe fu utifud jud guregi habgak feh jud. Etogar pakad bogmep piphom hu bor fir gaaf ufro kucad uw zapuz rukiv vumfumo kefid piun wigsoghac min.",
+    "bio": "Fenmiguh caasza isvuiti mu pecacu hudgiwir gitizoj hazo ger mak tekov nul calzuz. Wana dehev oz race pubufmoc sikwajwuk wavguran mognaruc maj tiwso ledi getiud kijisojuw awril cobfe tohfu nef. Atri ore kejod suw didkut ajupezip majjin muiboso biro kodner lippigre buhrurro femav zienza ak uto zakapavu jijid. Ruw averocu vid ozereluj dokeb lab hul ma juimuubu zaheko ikato bitalve danafzuf upgause. Co ilwab larsi usaze sejmajisi cuw bomok muwet tecgas vetifu zihifije ajeli puh bimlodo."
+  },
+  "apiKey": "bc319d59b0ccdeda855537483d44321cb548b1f9d18db9b2273c7540a99234ee",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
