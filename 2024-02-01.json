@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Crawford",
+  "age": 35,
+  "address": {
+    "street": "Hagez River",
+    "city": "Dapibro",
+    "state": "WI",
+    "zip": "39167"
+  },
+  "contact": {
+    "phone": "(465) 633-6255",
+    "servicePhone": "800299584"
+  },
+  "birthday": "1971-01-14T23:53:20.036Z",
+  "ip": "208.184.194.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Juhi zolul zivkoute lam envifum ilfap wunac arvuma jivev cig wehu ra ofoolaec joc ha jaucipig melkov. Puhor tecuj fuze fefugab eloawzew peovebum zuwlu cofhi wo unja daemu nirohap fok midav pedus. Po vo mes voucegu napol cosi sijwuroh amrem wi rapofa binme sil.",
+    "bio": "Suphato zuzemfih dobog ijpo jib no fedku lukitu ed se ca vum gum fu ela si. Zumuawi osofa takodhez owsoz ho onaba lukconce orudun lochabpo mogvad vejareku owa ep vefeg igo tagu rab. Mobvic gakibir kuudaki up zolit dalu siofjap zinic cuhsalmig wicveele nacwumu doztacice lir vurapep me."
+  },
+  "apiKey": "9666111d2eb43179637f6faafc716fa4602401277b03333a66dce2bc71e62e98",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
