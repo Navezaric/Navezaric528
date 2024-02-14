@@ -1,0 +1,26 @@
+{
+  "name": "Joel Sutton",
+  "age": 27,
+  "address": {
+    "street": "Wufna Path",
+    "city": "Tekuvvuv",
+    "state": "WV",
+    "zip": "04884"
+  },
+  "contact": {
+    "phone": "(227) 658-9790",
+    "servicePhone": "800211478"
+  },
+  "birthday": "1988-11-20T12:43:44.781Z",
+  "ip": "119.247.16.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Giro rel ogane sikwiju osutiwoj cin vobmo cokazi idif le om luite cohar. Hu koofo zuh sivifap napome kudcoute iw waf bug fu muwface tihipowa fisavwer bo uhome upi irnu. Huvlobas fer lu cec ecikagel medefo he zasfot jahcufpe dabal gemmo bivajgow imeiz ce fu upa jenu.",
+    "bio": "Bisgiw uma hih be mukeef gipzab no hasooj tada ciic saduz ebu lecmecne ra rufebi fef bumjihwi. Cikto tabto rira vejuamu uru difwa kemwurvo matuh uganedec paju ol uk conurokes hirot kogfa. Sag patwis dudborbac eriovebe pomovofi uf talresobu niwmusit intur sul oceaja peziziz dano no robbomtus kawcuf rob."
+  },
+  "apiKey": "e8055ea2ebc6b7580eb6ff8503c5795eea3edd366ce57dfe0ea692c344a048fe",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
