@@ -1,0 +1,26 @@
+{
+  "name": "Cora Foster",
+  "age": 41,
+  "address": {
+    "street": "Ejatu Square",
+    "city": "Huduuri",
+    "state": "AZ",
+    "zip": "69790"
+  },
+  "contact": {
+    "phone": "(260) 272-7775",
+    "servicePhone": "800188558"
+  },
+  "birthday": "1959-12-31T22:04:47.442Z",
+  "ip": "171.47.15.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuom vemugwap ragubu jam mijil web rutat miek pakdanded gemjuc oreawafug bidavovaf kazhibwe johu. Eco bervo nutiwric nupsirhit ne harewor sud lojkegzov beh zedli wehusug mopmub uw huasawa zat peloldip dumvihcub. Nemez mi nagri ikotu sazo jafowi ce cevbu batto opaju nidtewbur buwu.",
+    "bio": "Vaku bizniih jejepa her setjumir omde hu avu jihael lojnidija womcekje puk wocacsi oc kadfir govseweh. Paih rapriuh leekuder vagoz tahda la rekusudu lad degor oriluc ocni zut fu. Asase kuscijew funud zud majkah ca wusfun mubipfo awdufu setu fev tipozik. Ekrij fijegu heeguha ansi nu wutge aczogu esebakib wadepe pic gihov cumo no. Ruspu ewru ev mudara zusata idlak le ulabowep vamdoz waz tez fud megritwi da gectucori. Moc tenuwew ip wusi sok iruwofzi rocfow haw alerebi ko dasi cimtuij had. Rajod raz ovgu zompa ibafosaw mepup dewol zivso egji ota rigic maajaawa batkodim sojose denlil safisuzom gedar."
+  },
+  "apiKey": "cdd210cf898e4d9366b45b118527a2f30bda4af065fca5d1b07ef0b07c7a2d5b",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
