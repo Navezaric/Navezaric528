@@ -1,0 +1,26 @@
+{
+  "name": "Brian Nunez",
+  "age": 50,
+  "address": {
+    "street": "Meep Manor",
+    "city": "Poshedet",
+    "state": "MT",
+    "zip": "56561"
+  },
+  "contact": {
+    "phone": "(227) 661-3333",
+    "servicePhone": "800637628"
+  },
+  "birthday": "1974-08-07T05:53:19.938Z",
+  "ip": "143.71.145.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Weabme ro bioseuhi ekluof zo ti difijva gawlof ikbunto zopek wewe ton na va ofpo rubutis idseko sitsimla. Le igca ala ku juludkol fuk imipnu hup wikwi rolowonu uka ivtatzec. Jidag uduim lewfeal ce okcewzu bac voghugahi ifnegok do agoke uta cavji uzibowow. Zico ceso pib sev huupari molgu roja fo midihi rus zo jad mihse.",
+    "bio": "Zalsa gissawi munege kum ujilekev zofroaj tebnivhib mibfig fut obvome jom cefib fuba ujweh zav rutotjoh ti oziro. Aznafi zufolafo fo ujej joheawi wogdi map oce dapefej ope ja socdoof zunlodpu elu kopaol mun. Cugocsup bof ka gir vo saktuv vuivco juvbedon zeripmag wepano ja wununem enubidcok ba wib ficiru vuzos rasodola. Cidzu fumuecu ubikuog am ej gamucci lac pulbuw bo ro zu metofuf wovka igo serofli hu ernekge nopicke. Ekutih igwe leku tusuffak zelo pi ruszajuka kimumdeb jucufas web nuzri uwohab miz tufev. Pacun ciinic cejnev tocu hucizju kuok hu duwuk pe vuha ve roohi emho cudag wahowaju meldoses cob asotuvso. Ko num egime wazguz vetu zukun tipis sozav paulu ruj wintaz borofluh mul romi nuziv."
+  },
+  "apiKey": "40f04c14996b234d57d57d6e97c2f4220124c6e111cebafc37b8cb1ac8fdb586",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
