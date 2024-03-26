@@ -1,0 +1,26 @@
+{
+  "name": "Angel Carpenter",
+  "age": 28,
+  "address": {
+    "street": "Vorzov Place",
+    "city": "Hepenag",
+    "state": "AL",
+    "zip": "49686"
+  },
+  "contact": {
+    "phone": "(530) 375-2850",
+    "servicePhone": "800867145"
+  },
+  "birthday": "1981-12-29T00:55:40.710Z",
+  "ip": "123.82.25.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Ofu nothuili ci baldog jejobive ud lutow zakmevsem doij ilikefes kizemmab sume. Mimca rim utsidgik pahli geku ohefum jajaz rucowa setof uleceb guvikoce rukaj laugiler. Upbide pukpoz kotuaj olsikte uzaho fo tajciag oluhorlo buumu ha riumegiv telecu zosin.",
+    "bio": "Wu onuwa div voh iw bedaef ujowab ewzu lobira usoubere eragenoh ba odibo. Aze fizensez so upupefo hec wufnewu kidgo cocala av pafvuh talah op pij jebo. Hamfo owasalib beg fevusop ez cenes zu hudmusac bisiw si pij ziazme. Suke bu zac ovizollo vazukba duh pi tu ho tomaj halfu bawdojeka gealowab marur obmif luv an. Ba co govitnap rerizole luw tammo tuze dewsier mir vujjek ibi ligufu zinsod."
+  },
+  "apiKey": "08138dbd936b87b6a7a1970e352ffbff74823d63eff433c0da0aa6eac53029da",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
